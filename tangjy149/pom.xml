@@ -79,7 +79,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.1.4.RELEASE</version>
+      <version>5.2.20.RELEASE</version>
     </dependency>
     <!-- 8)Spring test 对JUNIT等测试框架的简单封装 -->
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-test -->
